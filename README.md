@@ -10,6 +10,7 @@ III. Modeling
 
 IV. Distributed BFS
 
-James Baker @jameswbaker
-Taha Boty @Tbot101
+Contributions:
+James Baker @jameswbaker,
+Taha Boty @Tbot101,
 Rohan Gupta @rohangpta
