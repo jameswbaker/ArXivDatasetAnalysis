@@ -2,10 +2,14 @@
 Big data analytics on ArXiv dataset https://www.kaggle.com/datasets/Cornell-University/arxiv
 
 
-I. Preprocessing & EDA (Taha Boty @Tbot101)
+I. Preprocessing & EDA
 
-II. Sentiment/Subjectivity Analysis + Visualization (James Baker @jameswbaker)
+II. Sentiment/Subjectivity Analysis + Visualization
 
-III. Modeling (Rohan Gupta @rohangpta)
+III. Modeling 
 
-IV. Distributed BFS (James Baker @jameswbaker)
+IV. Distributed BFS
+
+James Baker @jameswbaker
+Taha Boty @Tbot101
+Rohan Gupta @rohangpta
